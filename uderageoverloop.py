@@ -9,3 +9,6 @@ while True:
       break
   else:
       continue
+
+
+Copyright [2025] [Mauro Ruben Gonzalez]
